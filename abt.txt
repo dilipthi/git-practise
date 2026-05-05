@@ -1,0 +1,14 @@
+renaming 
+
+deleting 
+
+amend the commit
+
+using .gitignore
+
+
+using git revert
+
+
+merging branches
+
